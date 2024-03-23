@@ -1,3 +1,2 @@
 # hello-world
-## hello
-## I like reading books.
+## Hello, I like reading books.
